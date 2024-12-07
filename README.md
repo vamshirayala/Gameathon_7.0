@@ -2,10 +2,8 @@
 
 ## Arena Game Package
 
-The packaged game for Windows is located in the folder **"Unreal package for Windows"**. Inside, you will find the executable file:  
-`Arena.exe`
+Find the executable file:`Arena.exe` in the folder **"Unreal package for Windows"**.  
 
----
 
 **Note:** The full project file was too large to be included. As a result, only the package for Windows is provided.
 
